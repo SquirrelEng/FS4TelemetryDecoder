@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FS4TelemetryDecoder.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ReferenceLat" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ReferenceLon" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ReferenceAltM" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">-9999</Value>
+    </Setting>
+    <Setting Name="FlightTimeStart" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Type1Message" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KJ6FO FS4 HAB &lt;-- text from the WSJT LogFiles</Value>
+    </Setting>
+    <Setting Name="Type4Message" Type="System.String" Scope="User">
+      <Value Profile="(Default)">KJ6FO-11 APRS &lt;-- text from the WSJT LogFiles</Value>
+    </Setting>
+    <Setting Name="APRS_FlightMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Flying Squirrel 4 HAB &lt;-- Message tht will display in APRS (Mission Name)</Value>
+    </Setting>
+    <Setting Name="APRS_FlightSymbolTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/</Value>
+    </Setting>
+    <Setting Name="APRS_FlightSymbol" Type="System.String" Scope="User">
+      <Value Profile="(Default)">O</Value>
+    </Setting>
+    <Setting Name="APRS_FlightCallsignSSID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MyCall-11</Value>
+    </Setting>
+    <Setting Name="APRS_GroundMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ground Station.</Value>
+    </Setting>
+    <Setting Name="APRS_GroundSymbolTable" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/</Value>
+    </Setting>
+    <Setting Name="APRS_GroundSymbol" Type="System.String" Scope="User">
+      <Value Profile="(Default)">k</Value>
+    </Setting>
+    <Setting Name="APRS_GroundCallsignSSID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MyCall-10</Value>
+    </Setting>
+    <Setting Name="APRS_Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">APRS PasswordHere</Value>
+    </Setting>
+    <Setting Name="APRS_Enable" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="APRS_UserCallsign" Type="System.String" Scope="User">
+      <Value Profile="(Default)">MyAPRSCallsign</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
